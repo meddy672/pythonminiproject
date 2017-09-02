@@ -24,9 +24,9 @@ def draw_art():
     brad.speed(3)
     practice(brad)
     for i in range(1, 37):
-        practice(brad)
+        flower_head(brad)
         brad.right(10)
-    draw_stem(brad)
+    draw_flower_stem(brad)
 
 
     window.exitonclick()
