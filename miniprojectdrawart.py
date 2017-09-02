@@ -1,6 +1,6 @@
 import turtle
 
-def practice(some_turtle):
+def flower_head(some_turtle):
     
     some_turtle.forward(50)
     some_turtle.right(-45)
@@ -10,7 +10,7 @@ def practice(some_turtle):
     some_turtle.left(45)
     some_turtle.backward(50)
     
-def draw_stem(some_turtle):
+def draw_flower_stem(some_turtle):
     print(some_turtle.pos())
     some_turtle.setpos(0,-270)
     
