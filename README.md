@@ -1,4 +1,9 @@
 # pythonminiproject
-This application is to demostrate how  implement and use python packages within an application.
+This application uses the turtle package within the python library to draw a flower.
 
 ## Pacakages
+turtle
+
+## Setup
+
+## License
